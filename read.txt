@@ -3,3 +3,6 @@ study git;
 Yes;
 
 I do;
+
+learn git;
+
