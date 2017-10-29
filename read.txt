@@ -6,3 +6,4 @@ I do;
 
 learn git;
 
+git add  a word;
