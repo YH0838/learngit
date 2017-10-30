@@ -7,3 +7,5 @@ I do;
 learn git;
 
 git add  a word;
+
+add a new word;
